@@ -5,7 +5,7 @@
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages**: Python, JavaScript, HTML/CSS, Java
+- **Languages**: C++, Python, JavaScript, HTML/CSS, Java
 - **Frameworks**: Express.js, Node.js, React.js
 - **Databases**: MongoDB, Firebase  
 - **Libraries**: pandas, NumPy, matplotlib, scikit-learn, Google Charts  
