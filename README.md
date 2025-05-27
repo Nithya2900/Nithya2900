@@ -6,10 +6,10 @@
 ## 🔧 Tech Stack & Tools
 
 - **Languages**: Python, JavaScript, HTML/CSS, Java
-- **Frameworks**: Express.js, Node.js  , React.js
+- **Frameworks**: Express.js, Node.js, React.js
 - **Databases**: MongoDB, Firebase  
-- **Libraries**: pandas, NumPy, matplotlib, scikit-learn, transformers, Google Charts  
-- **Tools**: Git, GitHub, VS Code, Anaconda, Postman  
+- **Libraries**: pandas, NumPy, matplotlib, scikit-learn, Google Charts  
+- **Tools**: Git, GitHub, VS Code, Anaconda
 
 ---
 
