@@ -9,7 +9,7 @@
 - **Frameworks**: Express.js, Node.js, React.js
 - **Databases**: MongoDB, Firebase  
 - **Libraries**: pandas, NumPy, matplotlib, scikit-learn, Google Charts  
-- **Tools**: Git, GitHub, VS Code, Anaconda
+- **Tools**: Git, GitHub, VS Code, Anaconda, AWS
 
 ---
 
