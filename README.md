@@ -8,7 +8,7 @@
 - **Languages**: C++, Python, JavaScript, HTML/CSS, Java
 - **Frameworks**: Express.js, Node.js, React.js
 - **Databases**: MongoDB, Firebase  
-- **Libraries**: pandas, NumPy, matplotlib, scikit-learn, Google Charts  
+- **Libraries**: pandas, NumPy, matplotlib, scikit-learn, Google Charts, Tkinter 
 - **Tools**: Git, GitHub, VS Code, Anaconda, AWS
 
 ---
