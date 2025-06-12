@@ -35,9 +35,17 @@
 ### 🏆 Competitive Programming
 
 - 👩‍💻 Solved **1000+ DSA problems** across major platforms:
-  - ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black) - [LeetCode](https://leetcode.com/Nithya_Sri_S)  
-  - ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white) - [CodeChef](https://www.codechef.com/users/nithyasri_29)   
-  - ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white) - [Codeforces](https://codeforces.com/profile/nithya_29005) 
+<p align="center">
+  <a href="https://leetcode.com/Nithya_Sri_S" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/nithyasri_29" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://codeforces.com/profile/nithya_29005" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
 
 - Focus: Algorithms, Data Structures, Graphs, DP, and Problem Solving
 
