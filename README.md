@@ -1,3 +1,8 @@
+<h1 align="left">
+  Hey there! 👋 I'm Nithya 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
+
 🎓 I’m a passionate student of Data Science and Technology, driven by curiosity and a desire to make meaningful impact through innovation.  
 💡 I enjoy building AI-powered and data-driven solutions for real-world problems. 
 - 🔭 Currently working on full-stack AI projects & intelligent chatbots  
@@ -39,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nithya2900&show_icons=true&theme=radical" width="45%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithya2900&theme=radical" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nithya2900&show_icons=true&theme=radical" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithya2900&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithya2900&layout=compact&theme=tokyonight"/>
 </p>
 
