@@ -39,6 +39,9 @@ Framework and tools
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nithya2900&theme=onedark&margin-w=15&margin-h=15&row=2&column=4"/> </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Nithya2900/count.svg">
+</p>
 
 ## 📫 Let's Connect!
 
