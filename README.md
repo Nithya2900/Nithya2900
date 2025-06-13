@@ -13,7 +13,16 @@
 
 ---
 📊 GitHub Stats & Languages
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithya2900&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nithya2900&show_icons=true&theme=tokyonight&count_private=true" height="180px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithya2900&theme=tokyonight" height="180px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithya2900&layout=compact&theme=tokyonight&langs_count=8"/> </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithya2900&theme=tokyonight" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nithya2900&show_icons=true&theme=tokyonight&count_private=true" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithya2900&theme=tokyonight" height="200px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithya2900&layout=compact&theme=tokyonight&langs_count=8"/>
+</p>
+
 
 🧑🏻‍💻Tech Stack
 <!-- Programming Languages -->
@@ -35,9 +44,19 @@ Framework and tools
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nithya-sri-sivakumar-028653290/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/Nithya_Sri_S"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/nithyasri_29"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/nithya_29005"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nithya-sri-sivakumar-028653290/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/Nithya_Sri_S">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40px" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/nithyasri_29">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="40px" alt="CodeChef"/>
+  </a>
+  <a href="https://codeforces.com/profile/nithya_29005">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40px" alt="Codeforces"/>
+  </a>
 </p>
+
+
 ---
