@@ -33,9 +33,6 @@ Framework and tools
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?logo=python&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FFCC00?logo=python&logoColor=black) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?logo=huggingface&logoColor=black) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=black) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 
-
-🔥 Contribution Graphs
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nithya2900&theme=tokyonight&utcOffset=+5.5" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithya2900&theme=tokyonight" /> </p>
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nithya2900&theme=onedark&margin-w=15&margin-h=15&row=2&column=4"/> </p>
 
