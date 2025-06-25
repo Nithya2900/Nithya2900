@@ -17,14 +17,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithya2900&theme=tokyonight" height="200px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithya2900&show_icons=true&theme=tokyonight&count_private=true" width="400px"/>
-  <img src="https://streak-stats.demolab.com?user=Nithya2900&theme=tokyonight" width="400px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithya2900&layout=compact&theme=tokyonight&langs_count=8"/>
-</p>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nithya2900&show_icons=true&theme=tokyonight&count_private=true" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithya2900&layout=compact&theme=tokyonight&langs_count=8" height="200px"/>
+</div>
 
 
 ## 🧑🏻‍💻 Tech Stack
