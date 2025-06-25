@@ -14,8 +14,12 @@
 ---
 📊 GitHub Stats & Languages
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithya2900&theme=tokyonight" height="200px"/> 
-   <img src="https://github-readme-stats.vercel.app/api?username=Nithya2900&show_icons=true&theme=tokyonight&count_private=true" width="400px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithya2900&theme=tokyonight" width="400px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithya2900&theme=tokyonight" height="200px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nithya2900&show_icons=true&theme=tokyonight&count_private=true" width="400px"/>
+  <img src="https://streak-stats.demolab.com?user=Nithya2900&theme=tokyonight" width="400px"/>
 </p>
 
 <p align="center">
